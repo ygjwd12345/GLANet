@@ -78,7 +78,7 @@ python3 segment.py test -d ./datasets/cityscapes -c 19 --arch drn_d_22 \
 ```
 
 ## Acknowledge
-Our code is developed based on [FSeSim](https://github.com/lyndonzheng/F-LSeSim) and[unguided](https://github.com/mvrl/un_guided). We also thank [pytorch-fid](https://github.com/mseitzer/pytorch-fid) for FID computation,  [LPIPS](https://github.com/richzhang/PerceptualSimilarity) for diversity score, and [D&C](https://github.com/clovaai/generative-evaluation-prdc) for density and coverage evaluation.
+Our code is developed based on [FSeSim](https://github.com/lyndonzheng/F-LSeSim) and [unguided](https://github.com/mvrl/un_guided). We also thank [pytorch-fid](https://github.com/mseitzer/pytorch-fid) for FID computation,  [LPIPS](https://github.com/richzhang/PerceptualSimilarity) for diversity score, and [D&C](https://github.com/clovaai/generative-evaluation-prdc) for density and coverage evaluation.
 
 
 
