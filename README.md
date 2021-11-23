@@ -1,5 +1,5 @@
 # GLANet
-The code for Global and Local Alignment Networks for Unpaired Image-to-Image Translation [arxiv]()
+The code for Global and Local Alignment Networks for Unpaired Image-to-Image Translation [arxiv](https://arxiv.org/abs/2111.10346)
 
 Framework:
 ![image]( ./img/overview.jpg)
